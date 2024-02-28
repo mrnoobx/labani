@@ -12,9 +12,9 @@ config_dir.mkdir(exist_ok=True)
 
 class Bot:
     bot = {
-        "api_id": 1234567,
-        "api_hash": "0123456789abcdef0123456789abcdef",
-        "admins": []
+        "api_id": 24903318,
+        "api_hash": "266a897e11f3872392f16a43e226c902",
+        "admins": [6575679459]
     }
 
     def get_config(self) -> dict:
